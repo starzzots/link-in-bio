@@ -52,3 +52,8 @@ a {
   display: flex;
   justify-content: space-around;
 }
+
+.link-text {
+  text-align: center;
+  flex-grow: 1;
+}

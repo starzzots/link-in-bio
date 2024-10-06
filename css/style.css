@@ -9,6 +9,7 @@ body {
   padding-bottom: 40px;
   background: linear-gradient(45deg, #7d0928, #962521, #ad3e0f, #c15900, #d27500, #de9200, #e6b100, #e8d103);
   color: rgb(0, 0, 0);
+  font-family: "Impact";
 }
 
 a {

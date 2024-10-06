@@ -12,7 +12,7 @@ body {
 }
 
 a {
-  color:rgb(0, 162, 255);
+  color:rgb(0, 0, 0);
 }
 
 .main-container {
@@ -20,6 +20,7 @@ a {
   margin: auto;
 }
 .item {
+  background-color: aqua;
   margin-bottom: 20px;
   display:flex;
   align-items: center;

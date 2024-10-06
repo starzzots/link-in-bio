@@ -21,6 +21,8 @@ a {
 }
 .item {
   margin-bottom: 20px;
+  display:flex;
+  align-items: center;
 }
 .thumbnail {
   width: 48px;

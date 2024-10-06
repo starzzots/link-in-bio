@@ -15,8 +15,12 @@ a {
   color:rgb(0, 162, 255);
 }
 
+.main-container {
+  max-width: 640px;
+  margin: auto;
+}
 .item {
-  background-color: rgba(132, 0, 255, 0.50);
+  margin-bottom: 20px;
 }
 .thumbnail {
   width: 48px;
@@ -29,4 +33,16 @@ a {
   height: 128px;
   object-fit: cover;
   border-radius: 128px;
+}
+
+.image-row {
+  margin-bottom: 20px;
+}
+
+.name-row {
+  margin-bottom: 30px;
+}
+
+.social-icons-row {
+  margin-bottom: 30px;
 }

@@ -15,6 +15,9 @@ a {
   color:rgb(0, 162, 255);
 }
 
+.item {
+  background-color: rgba(132, 0, 255, 0.50);
+}
 .thumbnail {
   width: 48px;
   height: 48px;

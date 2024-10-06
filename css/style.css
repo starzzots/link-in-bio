@@ -15,6 +15,12 @@ a {
   color:rgb(0, 162, 255);
 }
 
+.thumbnail {
+  width: 48px;
+  height: 48px;
+  border-radius: 48px;
+  object-fit: cover;
+}
 .avatar-image {
   width: 128px;
   height: 128px;

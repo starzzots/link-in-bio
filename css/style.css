@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  color:rgb(0, 0, 0);
+  color:rgb(4, 0, 255);
   text-decoration: none;
 }
 
@@ -55,7 +55,6 @@ a {
   font-family: "Playfair Display";
   font-size: 24px;
   font-weight: 900;
-  color: blue;
 }
 
 .social-icons-row {
